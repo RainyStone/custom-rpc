@@ -1,3 +1,5 @@
+主要参考  https://my.oschina.net/huangyong/blog/361751 写的简易rpc框架
+
 一、rpc-sample-api模块：服务接口，打成单独的一个包，在进行服务端与客户端开发时，需要将该包作为依赖导入
     1、定义服务接口，如HelloService
 二、rpc-sample-service模块：rpc服务端
