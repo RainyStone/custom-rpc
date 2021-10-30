@@ -1,5 +1,0 @@
-1、rpc-sample-api模块：服务接口，打成单独的一个包，在进行服务端与客户端开发时，需要将该包作为依赖导入
-    a、定义服务接口，如HelloService
-2、rpc-sample-service模块：rpc服务端
-    a、serviceImpl包，存放服务接口的实现类，如HelloServiceImpl、HelloServiceImpl2
-    b、server包，存放服务端相关代码，比如服务端启动代码等
